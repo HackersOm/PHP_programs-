@@ -5,7 +5,10 @@
         array(2.2,4.2,44.5,12.6,3.3)
     );
 
-
+    echo"<pre>";
+    print_r($arr2D);
+    echo"</pre>";
+    
     echo"<Table border = '5px'>";
     echo"<tr>
             <th>Column1</th>
