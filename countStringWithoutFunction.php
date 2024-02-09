@@ -18,7 +18,7 @@ function hello($str)
     }
     return null;
 }
-$str = " string working is sample        u";
+$str = " string working is sample";
 $count = hello($str);
 if($count){
     echo " count is :$count";
