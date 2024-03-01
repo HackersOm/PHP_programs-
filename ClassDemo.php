@@ -27,5 +27,4 @@ $bh->set(100,2);
 $bh->get();
 $bh->calculate();
 
-
 ?>
